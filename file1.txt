@@ -1,3 +1,4 @@
 Hello git
 second
 some hot fix
+add function 1
